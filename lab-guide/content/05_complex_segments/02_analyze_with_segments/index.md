@@ -4,7 +4,7 @@ Analyze the applications in Dynatrace, this time using the newly created Segment
 
 ### Explore IDP SimpleNodeServices Dashboard
 
-If you haven't already, import the [IDP SimpleNodeServices](todo/dashboard) Dashboard into the Dynatrace environment.
+If you haven't already, import the [IDP SimpleNodeServices](https://github.com/dynatrace-wwse/enablement-openpipeline-segments-iam/blob/main/lab-guide/assets/dynatrace/IDP_%20SimpleNodeServices_Dashboard.json) Dashboard into the Dynatrace environment.
 
 ![IDP SimpleNodeServices Dashboard](../../../assets/images/05_02_dashboard_previous_segments.png)
 
