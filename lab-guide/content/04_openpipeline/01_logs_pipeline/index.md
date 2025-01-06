@@ -10,7 +10,7 @@ Use the `Logs` App to explore the existing log data for the IDP and the deployed
 
 From the Logs App, try to locate logs that are relevant to a specific application team (i.e. team01 or team02).
 
-Import the [IDP OpenPipeline Notebook](todo/notebook) Notebook into the Dynatrace environment.
+Import the [IDP OpenPipeline Notebook](https://github.com/dynatrace-wwse/enablement-openpipeline-segments-iam/blob/main/lab-guide/assets/dynatrace/IDP_%20OpenPipeline_Notebook.json) Notebook into the Dynatrace environment.
 
 ![Existing Logs](../../../assets/images/04_01_notebook_query_existing_logs.png)
 
