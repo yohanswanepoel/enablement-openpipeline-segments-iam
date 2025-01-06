@@ -16,7 +16,7 @@ Use the Kubernetes App to locate the new applications.  Each application is depl
 
 ### Explore IDP SimpleNodeServices Dashboard
 
-If you haven't already, import the [IDP SimpleNodeServices](todo/dashboard) Dashboard into the Dynatrace environment.
+If you haven't already, import the [IDP SimpleNodeServices](https://github.com/dynatrace-wwse/enablement-openpipeline-segments-iam/blob/main/lab-guide/assets/dynatrace/IDP_%20SimpleNodeServices_Dashboard.json) Dashboard into the Dynatrace environment.
 
 ![IDP SimpleNodeServices Dashboard](../../../assets/images/02_03_idp_simplenodeservices_dashboard.png)
 
