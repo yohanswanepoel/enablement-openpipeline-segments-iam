@@ -38,6 +38,8 @@ Wait for the merge request to be merged automatically (1-2 minutes) and for Argo
 
 Repeat the previous steps, 3 more times, to onboard a total of (4) applications.  Use the following values:
 
+> ⚠️ Deploying multiple components at the same time may cause issues due to resource constraints.  Deploy one component at a time and wait for it to be fully deployed before adding more. ⚠️
+
 | Field                   | Value                       | Value 2                    | Value 3                    | Value 4                    |
 |-------------------------|-----------------------------|----------------------------|----------------------------|----------------------------|
 | Project Name            | SimpleNodeService           | SimpleNodeService          | SimpleNodeService          | SimpleNodeService          |
