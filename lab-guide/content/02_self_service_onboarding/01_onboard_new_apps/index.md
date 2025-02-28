@@ -21,12 +21,12 @@ Follow the 4 step template to create a new application using these values:
 | Project Name            | SimpleNodeService           |
 | Team Identifier         | team01                      |
 | Team Full Name          | Team 01                     |
-| Team Email              | team01@dynatrace.training   |
+| Team Email              | team01@example.com          |
 | App Version             | 1.0.2                       |
 | Release Stage           | qa                          |
-| DORA Enabled            | enabled                     |
-| Include Security Scans  | enabled                     |
-| Include DT Config       | enabled                     |
+| DORA Enabled            | disabled                    |
+| Include Security Scans  | disabled                    |
+| Include DT Config       | disabled                    |
 
 ![Review and Create](../../../assets/images/02_01_review_and_create.png)
 
@@ -45,12 +45,12 @@ Repeat the previous steps, 3 more times, to onboard a total of (4) applications.
 | Project Name            | SimpleNodeService           | SimpleNodeService          | SimpleNodeService          | SimpleNodeService          |
 | Team Identifier         | team01                      | team01                     | team02                     | team02                     |
 | Team Full Name          | Team 01                     | Team 01                    | Team 02                    | Team 02                    |
-| Team Email              | team01@dynatrace.training   | team01@dynatrace.training  | team02@dynatrace.training  | team02@dynatrace.training  |
+| Team Email              | team01@example.com          | team01@example.com         | team02@example.com         | team02@example.com         |
 | App Version             | 1.0.2                       | 1.0.2                      | 1.0.2                      | 1.0.2                      |
 | Release Stage           | qa                          | staging                    | qa                         | staging                    |
-| DORA Enabled            | enabled                     | enabled                    | enabled                    | enabled                    |
-| Include Security Scans  | enabled                     | enabled                    | enabled                    | enabled                    |
-| Include DT Config       | enabled                     | enabled                    | enabled                    | enabled                    |
+| DORA Enabled            | disabled                    | disabled                   | disabled                   | disabled                   |
+| Include Security Scans  | disabled                    | disabled                   | disabled                   | disabled                   |
+| Include DT Config       | disabled                    | disabled                   | disabled                   | disabled                   |
 
 ### Review New Components
 
