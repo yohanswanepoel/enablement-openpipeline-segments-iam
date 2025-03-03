@@ -79,6 +79,14 @@ The codespaces instance will launch and the setup scripts will execute.
 
 Wait until the `Running postStartCommand...` disappears. It should take ~10 minutes.
 
+If the launch was successful, you should be able to run the following command without errors:
+
+```text
+kubectl get ns
+```
+
+> ⚠️ Note ⚠️ If you encounter an error and the launch was unsuccessful, try running the instance in a different Github cloud region/location.  You will need to delete your *fork* and start over from the beginning.  Do not continue with the same fork or codespaces instance!
+
 ### Activate Kubernetes Experience in Dynatrace
 
 When the codespaces instance is finished launching, go to the Terminal prompt and run the following command:
